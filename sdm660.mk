@@ -7,7 +7,7 @@
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
-    $(LOCAL_PATH)/overlay-arrow \
+    $(LOCAL_PATH)/overlay-lineage \
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
