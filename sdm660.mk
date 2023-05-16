@@ -169,8 +169,7 @@ PRODUCT_PACKAGES += \
     vendor.display.config@1.1
 
 # Doze
-PRODUCT_PACKAGES += \
-    XiaomiDoze
+
 
 # Display Device Config
 PRODUCT_COPY_FILES += \
