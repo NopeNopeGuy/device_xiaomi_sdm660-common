@@ -168,9 +168,9 @@ PRODUCT_PACKAGES += \
     android.frameworks.displayservice@1.0 \
     vendor.display.config@1.1
 
-# Doze
+# Parts
 PRODUCT_PACKAGES += \
-    XiaomiDoze
+    XiaomiParts
 
 # Display Device Config
 PRODUCT_COPY_FILES += \
